@@ -65,8 +65,13 @@ A highly accomplished **Senior Frontend Engineer** with extensive experience in 
 ## 📈 GitHub Metrics / 贡献与指标
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmbraCi&show_icons=true&theme=radical&rank_icon=github&border_radius=8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraCi&layout=compact&theme=radical&border_radius=8" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=UmbraCi&theme=radical&border_radius=8" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmbraCi&theme=radical&border_radius=8" height="160" />
+</p>
+
+### 🏆 Profile Trophies / 荣誉徽章
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UmbraCi&theme=radical&no-bg=true&column=7" alt="github profile trophy" /></a>
 </p>
 
 ---
